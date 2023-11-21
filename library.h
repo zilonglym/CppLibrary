@@ -1,0 +1,6 @@
+#ifndef CPPLIBRARY_LIBRARY_H
+#define CPPLIBRARY_LIBRARY_H
+
+void hello();
+
+#endif //CPPLIBRARY_LIBRARY_H
